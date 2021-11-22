@@ -22,6 +22,9 @@ img {
   float:left;
 
 }
+.opa {
+  opacity: 1;
+}
 .current
 {
  display:inline;

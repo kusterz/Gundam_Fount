@@ -3120,7 +3120,7 @@ $(function(){
 
     $(".r9c19").on("mouseout",function(){
     $(this).removeClass("current184").addClass("hidden184");
-    $(this).next("img.r9c19").removeClass("hidden").addClass("current184");
+    $(this).next("img.r9c19").removeClass("hidden184").addClass("current184");
 
        if($(".current184").length == 0)
        {
