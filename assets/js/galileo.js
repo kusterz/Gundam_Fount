@@ -1588,13 +1588,13 @@ $(function(){
     $(".r6c4").addClass("hidden94");
     $(".r6c4:first").removeClass("hidden94").addClass("current94");
 
-    $(".r6c3").on("mouseout",function(){
+    $(".r6c4").on("mouseout",function(){
     $(this).removeClass("current94").addClass("hidden94");
-    $(this).next("img.r6c3").removeClass("hidden94").addClass("current94");
+    $(this).next("img.r6c4").removeClass("hidden94").addClass("current94");
 
        if($(".current94").length == 0)
        {
-           $(".r6c3:first").removeClass("hidden94").addClass("current94");
+           $(".r6c4:first").removeClass("hidden94").addClass("current94");
        }
 
 
@@ -2013,8 +2013,8 @@ $(function(){
     $(".r7c4").addClass("hidden119");
     $(".r7c4:first").removeClass("hidden119").addClass("current119");
 
-    $(".r7c4").on("mouseout119",function(){
-    $(this).removeClass("current").addClass("hidden119");
+    $(".r7c4").on("mouseout",function(){
+    $(this).removeClass("current119").addClass("hidden119");
     $(this).next("img.r7c4").removeClass("hidden119").addClass("current119");
 
        if($(".current119").length == 0)
@@ -2064,7 +2064,7 @@ $(function(){
     $(".r7c7").addClass("hidden122");
     $(".r7c7:first").removeClass("hidden122").addClass("current122");
 
-    $(".rc").on("mouseout",function(){
+    $(".r7c7").on("mouseout",function(){
     $(this).removeClass("current122").addClass("hidden122");
     $(this).next("img.r7c7").removeClass("hidden122").addClass("current122");
 
@@ -2453,13 +2453,13 @@ $(function(){
 })
 $(function(){
     $(".r8c5").addClass("hidden145");
-    $(".r8c5:first").removeClass("hidden45").addClass("current145");
+    $(".r8c5:first").removeClass("hidden145").addClass("current145");
 
     $(".r8c5").on("mouseout",function(){
     $(this).removeClass("current145").addClass("hidden145");
     $(this).next("img.r8c5").removeClass("hidden145").addClass("current145");
 
-       if($(".current").length == 0)
+       if($(".current145").length == 0)
        {
            $(".r8c5:first").removeClass("hidden145").addClass("current145");
        }
@@ -3200,16 +3200,16 @@ $(function(){
 
 })
 $(function(){
-    $(".r9c23").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r9c24").addClass("hidden189");
+    $(".r9c24:first").removeClass("hidden189").addClass("current189");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r9c24").on("mouseout",function(){
+    $(this).removeClass("current189").addClass("hidden189");
+    $(this).next("img.r9c24").removeClass("hidden189").addClass("current189");
 
-       if($(".current").length == 0)
+       if($(".current189").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r9c24:first").removeClass("hidden189").addClass("current189");
        }
 
 
@@ -3217,16 +3217,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r9c25").addClass("hidden190");
+    $(".r9c25:first").removeClass("hidden190").addClass("current190");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r9c25").on("mouseout",function(){
+    $(this).removeClass("current190").addClass("hidden190");
+    $(this).next("img.r9c25").removeClass("hidden190").addClass("current190");
 
-       if($(".current").length == 0)
+       if($(".current190").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r9c25:first").removeClass("hidden190").addClass("current190");
        }
 
 
@@ -3234,16 +3234,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r10c1").addClass("hidden191");
+    $(".r10c1:first").removeClass("hidden191").addClass("current191");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r10c1").on("mouseout",function(){
+    $(this).removeClass("current191").addClass("hidden191");
+    $(this).next("img.r10c1").removeClass("hidden191").addClass("current191");
 
-       if($(".current").length == 0)
+       if($(".current191").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r10c1:first").removeClass("hidden191").addClass("current191");
        }
 
 
@@ -3251,16 +3251,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r10c2").addClass("hidden192");
+    $(".r10c2:first").removeClass("hidden192").addClass("current192");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r10c2").on("mouseout",function(){
+    $(this).removeClass("current192").addClass("hidden192");
+    $(this).next("img.r10c2").removeClass("hidden192").addClass("current192");
 
-       if($(".current").length == 0)
+       if($(".current192").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r10c2:first").removeClass("hidden192").addClass("current192");
        }
 
 
@@ -3268,16 +3268,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r10c3").addClass("hidden193");
+    $(".r10c3:first").removeClass("hidden193").addClass("current193");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r10c3").on("mouseout",function(){
+    $(this).removeClass("current193").addClass("hidden193");
+    $(this).next("img.r10c3").removeClass("hidden193").addClass("current193");
 
-       if($(".current").length == 0)
+       if($(".current193").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r10c3:first").removeClass("hidden193").addClass("current193");
        }
 
 
@@ -3285,16 +3285,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r10c4").addClass("hidden194");
+    $(".r10c4:first").removeClass("hidden194").addClass("current194");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r10c4").on("mouseout",function(){
+    $(this).removeClass("current194").addClass("hidden194");
+    $(this).next("img.r10c4").removeClass("hidden194").addClass("current194");
 
-       if($(".current").length == 0)
+       if($(".current194").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r10c4:first").removeClass("hidden194").addClass("current194");
        }
 
 
@@ -3302,16 +3302,16 @@ $(function(){
 
 })
 $(function(){
-    $(".rc").addClass("hidden");
-    $(".rc:first").removeClass("hidden").addClass("current");
+    $(".r10c5").addClass("hidden195");
+    $(".r10c5:first").removeClass("hidden195").addClass("current195");
 
-    $(".rc").on("mouseout",function(){
-    $(this).removeClass("current").addClass("hidden");
-    $(this).next("img.rc").removeClass("hidden").addClass("current");
+    $(".r10c5").on("mouseout",function(){
+    $(this).removeClass("current195").addClass("hidden195");
+    $(this).next("img.r10c5").removeClass("hidden195").addClass("current195");
 
-       if($(".current").length == 0)
+       if($(".current195").length == 0)
        {
-           $(".rc:first").removeClass("hidden").addClass("current");
+           $(".r10c5:first").removeClass("hidden195").addClass("current195");
        }
 
 
